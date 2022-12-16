@@ -4,9 +4,9 @@
 
 Confirmed Compatible with minimum versions:  
 
-* react: `^16.13.1`  
-* react-native: `^0.63.3`
-* react-native-webrtc: `^1.84.0`  
+* react: `17.0.2`  
+* react-native: `0.66.1`
+* react-native-webrtc: `1.92.2`  
 
 
 ## Overview
