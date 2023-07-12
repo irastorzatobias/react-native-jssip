@@ -29,8 +29,8 @@
     "@types/node": "^14.14.34",
     "debug": "^4.3.1",
     "events": "^3.3.0",
-    "react-native": "0.66.1",
-    "react-native-webrtc": "1.92.2",
+    "react-native": "0.71.8",
+    "react-native-webrtc": "106.0.6",
     "sdp-transform": "2.14.1"
   },
   "devDependencies": {
